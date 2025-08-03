@@ -1,0 +1,8 @@
+Simple Program to control cursor using index finger (To Control Space Ship)
+When shown Thumbs Up it clicks mouse right button (Missle in Game
+When you make fist but only index finger is out it clicks Left Button on Mouse (Shooting in Game)
+It uses Libraries
+1. OpenCV (Used to handle webcam feed)
+2. Mediapipe (To draw Landmarks and skeleton of the Hand)
+3. Time (To Avoid Spam clicks)
+4. Pyautogui (Used to control Mouse/Keyboard Inputs
