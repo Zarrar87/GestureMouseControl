@@ -7,7 +7,7 @@ Control your mouse using only your hand gestures via your webcam, powered by Ope
 This project uses real-time hand tracking to:
 - **Move the mouse cursor** using your index fingertip.
 - **Right-click** using a 👍 thumbs-up gesture.
-- **Left-click** using an 🖕 index-only gesture.
+- **Left-click** using an index-only gesture.
 
 No keyboard or mouse needed — just your hand and a webcam.
 
